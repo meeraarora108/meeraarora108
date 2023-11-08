@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi I am Meera. I love reading Philosophy, and I am going to read Sophie's World.
+
 <!--
 **meeraarora108/meeraarora108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
